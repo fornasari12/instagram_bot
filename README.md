@@ -4,7 +4,7 @@
 
 Selenium bot to get instagram followers and friends for a certain account. It also includes commands to follow and unfollow a user from the list.
 
-Disclaimer: Be careful on Instagram limits, once your account is tagged as a bot, it will be probably banned. Avoid using personal accounts.
-
 * [Scraper Code](https://github.com/fornasari12/instagram_bot/blob/main/main.py)
 * [Processing Example](https://github.com/fornasari12/instagram_bot/blob/main/process.py)
+
+Disclaimer: Be careful on Instagram limits, once your account is tagged as a bot, it will be probably banned. Avoid using personal accounts.
